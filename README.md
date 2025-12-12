@@ -1,2 +1,11 @@
-# BloodConnect-UMLs
-BloodConnect UMLs A collection of UML diagrams for the BloodConnect system, including Use Case, Class, Activity, State Chart, Sequence, and System Sequence diagrams. This repository provides a clear visual overview of the system’s structure and workflows.
+BloodConnect UMLs
+
+A structured collection of UML diagrams created for the BloodConnect system. These diagrams visually represent the system’s architecture, workflows, and interactions.
+
+Contents:
+-Use Case Diagrams
+-Class Diagrams
+-Activity Diagrams
+-State Chart Diagrams
+-Sequence Diagrams
+-System Sequence Diagrams
